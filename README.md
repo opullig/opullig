@@ -1,5 +1,4 @@
 ### Hi there 👋
-https://drive.google.com/drive/folders/1Cwt-WTKj7_UMhXv5X2C1YYdON-02fgGl?usp=sharing
 
 <!--
 **opullig/opullig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
