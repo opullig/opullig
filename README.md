@@ -8,7 +8,6 @@
     <img src="https://img.shields.io/badge/Javascript-Trabalhando-green?style=for-the-badge&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-Trabalhando-green?style=for-the-badge&logo=react&logoColor=white"/>
     <img src="https://img.shields.io/badge/NodeJs-Trabalhando-green?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Heroku-Trabalhando-green?style=for-the-badge&logo=heroku&logoColor=white"/>
     <img src="https://img.shields.io/badge/Mongo-Trabalhando-green?style=for-the-badge&logo=mongodb&logoColor=white"/>
   </div>
   <div>
@@ -16,7 +15,6 @@
     <img src="https://img.shields.io/badge/Unity-Estudando-yellow?style=for-the-badge&logo=Unity&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-Estudando-yellow?style=for-the-badge&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Sass-Estudando-yellow?style=for-the-badge&logo=sass&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-Estudando-yellow?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/TypeScript-Estudando-yellow?style=for-the-badge&logo=typescript&logoColor=white"/>
   </div>
 </div>
