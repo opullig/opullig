@@ -1,5 +1,4 @@
 <h2>👋 Olá, me chamo Renan e sou um Programador independente.</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=opullig&show_icons=true&theme=dark&include_all_commits=true&hide_border=true" />
 <div>
   <h5> Algumas habilidades: </h3>
   <div>
