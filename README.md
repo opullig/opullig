@@ -29,7 +29,7 @@
   <a href="https://www.twitch.tv/opullig">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/channel/UC1a_EpPcj8tBSA3valnBBsQ">
+  <a href="https://www.youtube.com/@opullig">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://play.google.com/store/apps/dev?id=8862069271373609637">
